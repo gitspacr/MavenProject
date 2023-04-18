@@ -1,0 +1,9 @@
+com\qa\ecom\Pages\ContactUSPage.class
+com\qa\ecom\Pages\LaunchingPage.class
+com\qa\ecom\Utilities\TestUtil.class
+com\qa\ecom\Pages\SignInPage.class
+com\qa\ecom\service\Browsers.class
+com\qa\ecom\service\Control.class
+com\qa\ecom\TestBase\TestBase.class
+com\qa\ecom\controller\Browser.class
+com\qa\ecom\TestData\TestDataController.class
